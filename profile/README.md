@@ -1,6 +1,6 @@
 # Portfolio Organization
 
-This organization contains both my previous and current portfolio projects, highlighting my growth as a frontend developer and the evolution of my tech stack over time.
+This organization contains both my previous and current portfolio projects, highlighting my growth as a full stack developer and the evolution of my tech stack over time.
 
 ## Overview
 
