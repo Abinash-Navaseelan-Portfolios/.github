@@ -31,7 +31,7 @@ The new portfolio is a redesigned and modernized version built with:
 - Tailwind UI
 - shadcn/ui
 
-- "https://abinashnavaseelanportfolio.vercel.app/"
+- https://abinashnavaseelanportfolio.vercel.app/
 
 This version improves on the previous one by using a more scalable and maintainable architecture, reusable UI components, stronger type safety, and a more modern design system.
 
